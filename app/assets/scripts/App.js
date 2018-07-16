@@ -9,4 +9,4 @@ new MobileMenu();
 new RevealOnScroll($('.feature-item'), '85%');
 new RevealOnScroll($('.testimonial'), '60%');
 new StickyHeader();
-new Modal();
+new Modal(); 
